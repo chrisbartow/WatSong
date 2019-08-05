@@ -1,0 +1,10 @@
+{
+    "identity": {
+        "username": "USERNAME",
+        "password": "OAUTH_TOKEN"
+    },
+    "channels": [
+        "CHANNEL"
+    ],
+    "player": "Spotify"
+}
